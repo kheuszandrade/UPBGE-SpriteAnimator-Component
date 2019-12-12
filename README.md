@@ -1,2 +1,3 @@
 # UPBGE-SpriteAnimator-Component
-SpriteAnimator component
+
+Use this component to create animations with replace_mesh in UPBGE.
